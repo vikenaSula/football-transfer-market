@@ -1,6 +1,10 @@
 # FootballTransferMarket
 
-This project is about transfers in the football market. In this application you can edit your profile as a player or manage the team as an owner.
+This project is about transfers in the football market. It designs the football market as an online management 
+application. It is based on two roles: players and club owners.
+Every owner has its team of players. Every player is part of a single team and he can create or cancel contrats through sending and receiving requests.
+It is based on requests and acceptances/declines, like a football market with social media commands.
+
 
 # How to run the app
 
